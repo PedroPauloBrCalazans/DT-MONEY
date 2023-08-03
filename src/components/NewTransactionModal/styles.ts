@@ -41,7 +41,7 @@ export const Content = styled(Dialog.Content)`
     }
 
     button[type="submit"] {
-      height: 50px;
+      height: 58px;
       border: 0;
       background: ${(props) => props.theme["green-500"]};
       color: ${(props) => props.theme.white};

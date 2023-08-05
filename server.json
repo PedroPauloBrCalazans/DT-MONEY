@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-07-29T19:10:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento App Node",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-08-05T00:03:30.303Z",
+      "id": 3
+    },
+    {
+      "description": "Mc' Donalds",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-05T00:25:26.580Z",
+      "id": 4
     }
   ]
 }
